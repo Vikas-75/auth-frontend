@@ -1,7 +1,7 @@
 // src/components/Layout.jsx
 import React from "react";
 import Navbar from "./Navbar";
-import "../styles/layout.css";
+import "../styles/Layout.css";
 
 const Layout = ({ children, user, onLogout }) => {
   return (

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import API from "./api";
-import Layout from "./components/Layout";
+
 import "./styles/AdminEmployees.css";
 
 const AdminEmployees = () => {

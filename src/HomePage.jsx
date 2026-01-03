@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Layout from "./components/Layout";
+
 import "./styles/HomePage.css";
 
 const HomePage = () => {
